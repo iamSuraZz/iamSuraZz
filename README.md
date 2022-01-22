@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning MERN Stack.
 - 👯 I’m looking to collaborate with other developers on projects.
 
-https://github-readme-stats.vercel.app/api?username=iamSuraZz&theme=radical
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamSuraZz&theme=radical)
