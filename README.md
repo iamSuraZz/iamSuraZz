@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning MERN Stack.
 - 👯 I’m looking to collaborate with other developers on projects.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamSurazz)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamSurazz&theme=highcontrast)](https://git.io/streak-stats)
