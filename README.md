@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/i.am.surazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Suraj_Poddar" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/SuraZz.Poddar" target="blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2020/04/Popular-Logo-facebook-icon-png.png" alt="Suraj_Poddar" height="30" width="30" /></a>
+  <a href="https://www.facebook.com/SuraZz.Poddar" target="blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2020/04/Popular-Logo-facebook-icon-png.png" alt="Suraj_Poddar" height="30" width="30" border-radius="50%" /></a>
 <a href="https://wa.me/918126712077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Suraj" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/surajpoddar007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Suraj Poddar" height="30" width="40" /></a>
 <a href="https://github.com/iamSuraZz" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png" alt="SuraZz" height="30" width="30" /></a>
