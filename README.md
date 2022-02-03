@@ -1,4 +1,4 @@
-### Hola, I'm Suraj Poddar ! 👋
+### Hello, I'm Suraj Poddar ! 👋
 
 
 - 🔭 Started path as a full stack developer.
