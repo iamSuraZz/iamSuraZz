@@ -12,7 +12,7 @@
   <a href="https://www.facebook.com/SuraZz.Poddar" target="blank"><img align="center" src="https://www.facebook.com/images/fb_icon_325x325.png" height="30" width="30" /></a>
 <a href="https://wa.me/918126712077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Suraj" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/surajpoddar007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Suraj Poddar" height="30" width="40" /></a>
-<a href="https://github.com/iamSuraZz" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="SuraZz" height="30" width="30" /></a>
+<a href="https://github.com/iamSuraZz" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="SuraZz" height="30" width="30" /></a>
 </p>
 
 <p align="left">
