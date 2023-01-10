@@ -32,6 +32,6 @@
 ![Git](https://img.shields.io/badge/git-040E2C?style=for-the-badge&logo=git&logoColor=orange)
 ![GitHub](https://img.shields.io/badge/github-040E2C?style=for-the-badge&logo=github&logoColor=white)
 </p>
-<br />
+<br/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamSurazz&theme=highcontrast)](https://git.io/streak-stats)
