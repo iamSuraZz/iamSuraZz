@@ -2,7 +2,7 @@
 
 
 - 🔭 Started path as a Frontend Developer.
-- 🌱 I’m currently working as development team lead.
+- 🌱 I’m currently working as development team lead at Lexodd Hypernova.
 - 👯 I’m looking to collaborate with other developers on projects.
 -  ✉️   Reach me via **surajdev9886@gmail.com** 
 
